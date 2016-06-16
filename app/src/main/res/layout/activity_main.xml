@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context="com.example.as.russian.MainActivity">
+
+    <com.example.as.russian.gamebox
+        android:id="@+id/gamebox"
+        android:layout_height="475dp"
+        android:layout_width="280dp">
+
+    </com.example.as.russian.gamebox>>
+</RelativeLayout>
